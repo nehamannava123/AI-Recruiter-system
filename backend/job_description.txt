@@ -1,0 +1,10 @@
+Looking for a Python Developer.
+
+Skills:
+Python
+FastAPI
+Machine Learning
+SQL
+
+Experience:
+2+ Years
