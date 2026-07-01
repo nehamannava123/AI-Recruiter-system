@@ -5,6 +5,7 @@ import Setup from './pages/Setup';
 import Interview from './pages/Interview';
 import Results from './pages/Results';
 import AuthPage from './pages/AuthPage';
+import Dashboard from './pages/Dashboard';
 
 const pageVariants = {
   initial: { opacity: 0, y: 12 },
@@ -61,6 +62,14 @@ export default function App() {
           element={
             <AnimatedPage>
               <Results />
+            </AnimatedPage>
+          }
+        />
+        <Route
+          path="/dashboard"
+          element={
+            <AnimatedPage>
+              <Dashboard />
             </AnimatedPage>
           }
         />
