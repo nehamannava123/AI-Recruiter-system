@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+pymupdf
+requests
+python-multipart
+numpy
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
